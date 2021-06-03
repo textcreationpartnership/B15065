@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The iust dovvnefall of ambition, adultery, murder at the end of which are added Westons, and Mistris Turners last teares, shed for the murder of Sir Thomas Ouerbury poysoned in the tower; who for the fact, suffered  deserued execution at Tiburne the 14. of Nouember last. 1615. Mercy sweet Iesus.</title>
+            <title>Bloody downfall of adultery.</title>
+         </titleStmt>
+         <extent>Approx. 28KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B15065</idno><idno type="EEBO-CITATION">99856015</idno>
+  <idno type="VID">178280</idno>
+  <idno type="EEBO-PROQUEST">2240894521</idno>
+  <idno type="STC">STC 18919.7</idno>
+  <idno type="STC">ESTC S120822</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99856015e"/>
+            <note>(EEBO-TCP ; phase 2, no. B15065)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178280)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1552:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The iust dovvnefall of ambition, adultery, murder at the end of which are added Westons, and Mistris Turners last teares, shed for the murder of Sir Thomas Ouerbury poysoned in the tower; who for the fact, suffered  deserued execution at Tiburne the 14. of Nouember last. 1615. Mercy sweet Iesus.</title>
+                  <title>Bloody downfall of adultery.</title>
+               </titleStmt>
+               <extent>[30] p.   </extent>
+               <publicationStmt>
+                  <publisher>For R. H[iggenbotham] and are to be sold at his shop at the Cardinalls Hat without Newgate,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>[1615]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title reads: The iust downefall of ambition &amp;c.</note>
+                  <note>Printer's name and publication date from STC.</note>
+                  <note>Woodcut title vignette.</note>
+                  <note>"Mistris Turners teares" and "Master Westons teares" have caption title.</note>
+                  <note>Formerly STC 18920a.</note>
+                  <note>Identified as STC 18920a on UMI microfilm.</note>
+                  <note>Signatures: A-D⁴ (-A1, blank?).</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Overbury, Thomas, --  Sir, 1581-1613 --  Early works to 1800.</term>
+               <term type="topical_term">Adultery --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:178280:1"/>
+            <p>The iust Downefall Of
+<list>
+                  <item>Ambition,</item>
+                  <item>Adultery.</item>
+                  <item>Murder,</item>
+               </list> At the end of which are added Westons, and Mistris Turners last Teares, shed for the Murder of Sir Thomas Ouerbury poysoned in the Tower; who for the fact, suffered deserued execution at Tiburne the 14. of Nouember last. 1615.</p>
+            <p>Mercy Sweet Jesus.</p>
+            <figure>
+               <figDesc>Woodcut illustration of a bearded man and a woman praying on their knees.</figDesc>
+            </figure>
+            <p>Printed at London for R. H.and are to be sold at his shop at the Cardinalls Hat without Newgate.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:178280:2"/>
+            <pb facs="tcp:178280:2"/>
+            <head>
+               <hi>The iust Downfall of</hi> Ambition, Adultery, and Murder, presen<g ref="char:EOLhyphen"/>ted in a black Seane of Gods iust <hi>Iudgements, in reuenge of the inocent</hi> blood lately shed in this KINODOME.</head>
+            <p>
+               <seg rend="decorInit">L</seg>Ooking lately into the customes of this Age, &amp; coniecturing the in<g ref="char:EOLhyphen"/>ward affections of men I gather that the world is the house of confusi<g ref="char:EOLhyphen"/>on, and the inhabitants thereof set vpon mischiefe, for the seauen Capitall sinnes are growne to such a custome, that our eyes want no allurements to bewitch, our eares no perswasions to seduce, nor our sences, no subtlety to affect: Which sea<g ref="char:EOLhyphen"/>zing
+<pb facs="tcp:178280:3"/> on the hearts of men, haue brought fourth many pernitious children, to the hurt of Nature, some like centaures, be<g ref="char:EOLhyphen"/>gotten of clouds: as <hi>Ambition,</hi> some like Serpents nurrished in dunghils, as <hi>Sensu<g ref="char:EOLhyphen"/>allity,</hi> some like Vapors, raysed vp to be consumed as <hi>Flattery,</hi> and such like, ge<g ref="char:EOLhyphen"/>nerally all dangerous and full of trouble: therefore is it (in the sence of man) most fitting to haue the painting taken off from these foule faces, the couers pulled off from these cups of Poyson, and the co<g ref="char:EOLhyphen"/>uert of this bed of Serpents cipped vp, that we may discerne what hath long time bene hidden cunningly.</p>
+            <p>The first that presents <gap reason="illegible" resp="#pdcc" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> our stage; will wee call <hi>Ambition,</hi> catch<g ref="char:EOLhyphen"/>ing at nothing but Starres, climing onely for Greatnesse, this is hee, that cunning<g ref="char:EOLhyphen"/>ly can inuent strattagems to his owne ouer throw, giuing Pens occation to wright Tragedies, if hee rise from obscu<g ref="char:EOLhyphen"/>rity, (as many haue done) hee laboreth
+<pb facs="tcp:178280:3"/> to bee skilfull in those things, which are most pleasing to the greater Sort, and tol<g ref="char:EOLhyphen"/>lerable among the commons: His study is for prayse, and not for vertue: His lookes like <hi>Mausolus</hi> toumbe, faire and comly without, but within, nothing but rotten bones, and corrupt practises: his apparell increaseth with his Fortune, and as worldly affaires direct him, so suteth hee both fashions and affections, in his studdy hee affecteth fingularity, and is proud in beeing Author of a new Strata<g ref="char:EOLhyphen"/>gem: if hee chance to come into the eye of the World, hee then creepes into the fauour of some great Personage, in fee<g ref="char:EOLhyphen"/>ding whose humors (to relieue his wants makes intrusion into some heritage, and marcheth not according to his birth, but to the increase of his fortune, and by that meanes, by hooke or crooke, he anay<g ref="char:EOLhyphen"/>neth to some place in the Court: Then begins hee with guifts to winne hearts, by fayned humility to auoyd hatred,
+<pb facs="tcp:178280:4"/> by offices of friendship, to bind his e<g ref="char:EOLhyphen"/>qualls, by cunning insinuations to worke his Superiours, by which meanes hee is held to bee worthily a Statesman; beeing growne to this steppe higher, the authority likes him not, without the stile, wherein if any crosse him, looke for poy<g ref="char:EOLhyphen"/>son in his cuppe, or conspiracy in his walkes, yea so pestilent is his nature, that (like fire raked vp in embers) hee neuer sheweth but to consume, both himselfe and others: if hee perceaue any that by ripe Iudgement conceiteth his courses, with him hee ioyneth, as if hee sought his onely protection vnder the wing of his Glory, but the very truth is hee hath no other intent but this, to clippe the wings of his renowne for feare, hee flye beyond him, if the nature of the Noble<g ref="char:EOLhyphen"/>man whom hee enuyeth beegentle, hee bringeth him in feare, eyther of his ser<g ref="char:EOLhyphen"/>uants in his household, or his familliars that loue his honour, or else some mis<g ref="char:EOLhyphen"/>like
+<pb facs="tcp:178280:4"/> bewixt his Prince and him, sworne and confirmed by flatteries and intelli<g ref="char:EOLhyphen"/>gences, till the noble looseth either his land, authoitie, or place, and hee attaine both his stile and promotion: yet plaie hee neuer so cunningly, such vncertaine honours beget daily dangers, and makes him carelesse of his soules prospe<g ref="char:EOLhyphen"/>ritie: For then there entreth into his mind a delightfull sinne called curiosity, by which to make him more able in o<g ref="char:EOLhyphen"/>ther mischiefes, hee giues intertainment to witches and charmers, and consorts him-selfe with nouell mongers, and strange inuenters of banquets, to set lust on fire, and that can deuise confections to besot youth with luxury, that for an irefull man can worke strange reuenges, for a fearefull, a strong tower to keepe him in: to be excellent at poysons, to kill lingringly, like the <hi>Italian:</hi> But againe to our purpose, to the <hi>Ambitius</hi> man there is commonly belonging a rustick troup,
+<pb facs="tcp:178280:5"/> of Flaterers, Bauds, Adulterers, Soothers, and such like, that hating al vertue makes sin seeme pleasing, which workes in the flexable heart such a sweet desire of for<g ref="char:EOLhyphen"/>bidden pleasures, that it euen surfets and growes sicke, with excesse, Lust and Adul<g ref="char:EOLhyphen"/>tery I meane, which I discribe in this ma<g ref="char:EOLhyphen"/>ner, it is the most insolent of all things, it troubles the mind and taketh away the empire of liberty, it confounds memory, kills prouidence, and treads downe good councel: offends not he the law, that takes possession of another mans free hold, and makes a common of his neighboures in<g ref="char:EOLhyphen"/>closure, Adulterers I say haue no spirits to goodnes, nor will they be by any coun<g ref="char:EOLhyphen"/>cell moued to godlines, for their felicity is in the surfets of the flesh, and the plea<g ref="char:EOLhyphen"/>sures thereof bring nothing but too deare repentance, the Adulterer spights him most that examines his proceedings, and plots his ouerthrow that doth but touch
+<pb facs="tcp:178280:5"/> his infirmities, Oh! what an enemy is it to Vertue, the onely wrake of wealth, and plaine high way to pouerty. The Adulterer is so blinded in heart, and so hardened withall, that hee can hard<g ref="char:EOLhyphen"/>ly looke vp towards Heauen to behold Gods iust Iudgements: yea so iust and sure they are, that in all ages this vile sinne hath beene s<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uerely punished, as by the example o<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Tudas,</hi> iustice on <hi>Tha<g ref="char:EOLhyphen"/>mas, Dauids</hi>
+               <gap reason="illegible" resp="#pdcc" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ultery with <hi>Vrias</hi> Wife, punished in his Sonne <hi>Absolon,</hi> thousands of men died in <gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he fields of Moab for this fault, threescore thousand of the children of Israell were put to the sword for the rauishing onely a Leuits Wife, of all sins it is in nature the most odious, and brings with it the greatest shame vnto mankind: it is a sinne that hath made the Earthe drunke with blood, to the confusion of many Townes and Cities, Sodome and Gomorah were consumed with fire for
+<pb facs="tcp:178280:6"/> Incest and Adultery: Troy a proud City made a plow-land for the same sinne: It was the onely adulteries of the French that caused a massaker of fourescore thousand, by the ringing of one bell: Let not the Strumpits eye, saies one of the sages of Greece, shine vpon the coun<g ref="char:EOLhyphen"/>tenance of young men, least with the Basaliske, it pearce vnto the death: for her malice is as lightning, and more raging then the she Beare, vpon her at<g ref="char:EOLhyphen"/>tends malitious hatred, whose felicity is onely to reioyce at the harmes of others, giuing more affliction to them that are most troubled with affliction, where if a<g ref="char:EOLhyphen"/>ny offend her, she admitts no reconcilia<g ref="char:EOLhyphen"/>tion, but liues as a partiall Iudge in her owne cause, if she heares the aduance<g ref="char:EOLhyphen"/>ment of vertue then growes she pensiue, &amp; if she want credit amongst the mighty then falls shee working with the meaner sort, shee smiles not vppon any man
+<pb facs="tcp:178280:6"/> but to be tray him, nor giue him coun<g ref="char:EOLhyphen"/>tenance but to vndoe him, nor con<g ref="char:EOLhyphen"/>triue, any stratagems without Murder, nor dwels by any neighbour but to hurt him; and if shee be but crossed in her will, shee euer frets her selfe away in anger, and after in Hate and Malice becomes infamous, for her loue is a minet, but her spight euerlasting, her hand being once dipt in mischiefe, shee neuer walks abroad but in suspition, fearing to bee accused by Vertue, and still liues in dread of her good Fortune, yet by na<g ref="char:EOLhyphen"/>ture is shee such, that shee hath courage enough to aduenture on any sinne, an Ambitious woman shewes her selfe to bee a troublesome disturber of the world, powerfull to make smale things great, and great, monstrous, enuy by na<g ref="char:EOLhyphen"/>ture is greeued at the Prosperity of o<g ref="char:EOLhyphen"/>thers, hee enuyeth the Great in that hee cannot Equall them, hee enuieth
+<pb facs="tcp:178280:7"/> the weake, dreading they should com<g ref="char:EOLhyphen"/>pare themselues with him: hee enuyeth his Equalls because they should not be<g ref="char:EOLhyphen"/>come his Companions: in Kingdomes, Common-Wealths, Princes Courtes and Ambitious mens Houses he is still work<g ref="char:EOLhyphen"/>ing, no Man hunteth after Honor but hee affronts him, onely the miserable man hee enuies not, because (beeing kept in Prison) hee feares not his ri<g ref="char:EOLhyphen"/>sings, yet hath hee a scorne ouer him: Machiuell knowing the venome of this vice, gaue his sonne this last and not least instruction: that hee should not bee enui<g ref="char:EOLhyphen"/>ous, but to doe (saith hee) such deeds that others may enuy thee, for to bee enuied is the token of good desert, but to be en<g ref="char:EOLhyphen"/>uious the signe of a foolish nature, which verefies the saying of <hi>Marcus Tullius</hi> the Orator, that the most florishing for<g ref="char:EOLhyphen"/>tune is most enuied at: But now to bee more familiar in my Discourse, where
+<pb facs="tcp:178280:7"/> Ambition, Adultery, Pride, Enuy, Malice, and such like Capitall Sinnes haue set in foote, there cannot chose but follow Murder and confusion, and where the foundation is layd with blood, there can bee a building but of small continuance, but where Honors haue a true beginning, a ground of vertue springing vp by noble deserts, con<g ref="char:EOLhyphen"/>tinued by Wisedome and maintayned with Care, there cannot choose but follow a fruitfull haruest, and a plen<g ref="char:EOLhyphen"/>tifull Winter: contrariwise to obtaine sodaine Honors begets Pride and Vaine<g ref="char:EOLhyphen"/>glory, Pride and Vaine-glory are the cherishers of Enuy and Mallice, En<g ref="char:EOLhyphen"/>uy and Mallice the Nurses of Blood<g ref="char:EOLhyphen"/>shed and Murder, in which whoso<g ref="char:EOLhyphen"/>euer dippeth but the tippe of his fin<g ref="char:EOLhyphen"/>ger, giues to his Soule a scarlet staine, which neuer can bee cleared vntill the dissolution of the Body, and then well
+<pb facs="tcp:178280:8"/> are they that can wash it away with the true teares of repentance.</p>
+            <p>Brittle is that greatnes that fadeth in a moment, and vaine the ioy that is vn<g ref="char:EOLhyphen"/>wisely lost, hee that hath a sodaine rise and can wisely stand, is a most happy Worldling, but he that forgets himselfe on the Pinacle of prosperity is besotted with arrogancy: therefore let him that hunts for honors in Princes Courts, wan<g ref="char:EOLhyphen"/>der in an euen passage, for dangerous are the proceedings and busines of a States<g ref="char:EOLhyphen"/>man, take this for an example: suppose that a yong man from the lowest ebbe of worldly chance haue the aduancement of greatnes laid vppon his shoulders, will it not for a time seeme a heauy burthen, and a great trouble to his new transfor<g ref="char:EOLhyphen"/>med fortunes? will not the pride of his heart swell to a full Sea; euen ready to burst ouer the bankes of his Honour<g ref="char:EOLhyphen"/>giuer? Then rightly may the Picture
+<pb facs="tcp:178280:8"/> of ingratitude bee imprinted in his fore<g ref="char:EOLhyphen"/>front, playing the Viper to his high for<g ref="char:EOLhyphen"/>tunes first beginner.</p>
+            <p>Beeing thus inituled with State Offi<g ref="char:EOLhyphen"/>ces, hath he not many soothers in sinne personages of bace condition attending him, hemming him round with perswa<g ref="char:EOLhyphen"/>sions of selfe conceit, which for a need will venture their liues to gaine him the commands of his will: what becomes of such follies, but a sorrowfull repentance, and no recouery. All you that haue your hearts pierced with sad considerations, take this for a remembrance of greefe, that is, That when a Woman of noble Parentage, placed on the mountaine of smiling chance, hauing the dignity of Greatnesse shining on her fore-head, should humble her selfe to base conditi<g ref="char:EOLhyphen"/>ons, giuing her whole mind to malicious hatred, secret consents of iniquity, selfe-will and wicked proceedings, neuer pa<g ref="char:EOLhyphen"/>cified
+<pb facs="tcp:178280:9"/> till the end of damned performan<g ref="char:EOLhyphen"/>ces. Oh: was not this Woman created for a deepe sorrow to her Aliance, a great greefe vnto her Country, and a foule staine vnto her owne reputation? Is it not also a lamentable example, for a Gen<g ref="char:EOLhyphen"/>tleman of good birth and calling, Placed in dignity, in high office and charge for his Country, to giue way by consent to a bloody stratagem, and for feare of the displeasures of Greatnes intangles him<g ref="char:EOLhyphen"/>selfe in the snares of reproch? will not this also be a continuall remembrance to his posterity, and a barre of disgrace branding the coate Armes of his house, to haue the common course of Iustice passe vppon him in the eye of the multitude. Is it not also great pitty that for want of grace some of a seruile (yet an obseruing condition) should from the golden meane of low estate wait at the elbow of Great<g ref="char:EOLhyphen"/>nes, and bring fuell to their fire of iniqui<g ref="char:EOLhyphen"/>ty,
+<pb facs="tcp:178280:9"/> wherein at the length they themselues are likewise consumed. Oh! wherefore should simplicity thus blind vp their eyes of vnderstanding, to bee thus the instru<g ref="char:EOLhyphen"/>ments of such dangerous drifts, that aymes at nothing but grudge and mallice? if with <hi>Solons</hi> saying they had sealed vp their hearts, <hi>Remember the end,</hi> this had neuer beene: then how are they led away with amisse, that hauing the guifts of art and experience, the secrets of the simples of Phisicke, ordained by God for mans good vse, should by the Diuell and them be conuerted thus to malignant purposes if the feare of God had shined in their hearts, it would haue beene a light to haue led them from all those darke practises, which hath now spotted the foreheads of their reputations with the marks of black infamy, shame cannot choose but bee the reward of such enterprisers, that for the fauours of Greatnes, will dip their hands
+<pb facs="tcp:178280:10"/> in the blood of Innocents, and euen as it were worke against nature: Oh more then sauage minded Crreatures in the very deepenesse of your blacke and bloody immaginations, (imboldened by whomsoeuer) this might haue been your <hi>Memento,</hi> in which I conclude, that strange and wonderfull are Gods iudge<g ref="char:EOLhyphen"/>ments, that in these fore-passed strata<g ref="char:EOLhyphen"/>gems haue shined in great glory, say you then, that blood innocently shed is layd vp in Heauens Treasury, not one droppe of it can bee lost, but lent out to Vsury: water poured forth, sinkes downe quietly into the earth, but blood spilt on the ground, sprinkles vp to the Firmament, Murder is wide mouthed, and will not let God rest till hee grant re<g ref="char:EOLhyphen"/>uenge, not onely the blood of the slaugh<g ref="char:EOLhyphen"/>tered, but the soule of the innocent ascen<g ref="char:EOLhyphen"/>ding to his throne, crying out and ex<g ref="char:EOLhyphen"/>claining for Iustice, which (the Lord bee
+<pb facs="tcp:178280:10"/> praysed) hath beene, and will bee care<g ref="char:EOLhyphen"/>fully followed by the learned and worthy Magistrates of this King<g ref="char:EOLhyphen"/>dome, whom the Lord God prosper and protect in all their proceedings, to which let all true hearts say. Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="gallows_lament">
+            <pb facs="tcp:178280:11"/>
+            <pb facs="tcp:178280:11"/>
+            <head>Mistris <hi>Turners</hi> Teares, for <hi>the Murder of Sir</hi> Thomas Ouerbury <hi>who was poysoned in the Tower of London.</hi>
+            </head>
+            <lg>
+               <head>1</head>
+               <l>IF euer Teares fell from a Wretches eyes,</l>
+               <l>I am that Creature: waues on waues do rise,</l>
+               <l>So fast, and swel so high they drowne my soule,</l>
+               <l>In her owne Crimes as numberlesse as foule.</l>
+            </lg>
+            <lg>
+               <head>2</head>
+               <l>Oh had my Cradle beene my sodaine Graue,</l>
+               <l>In Peace my Soule had slept, which is a slaue</l>
+               <l>Now both to sinne and shame: I had not then</l>
+               <l>Been of God hated and so scornd of Men</l>
+            </lg>
+            <pb facs="tcp:178280:12"/>
+            <lg>
+               <head>3</head>
+               <l>Vnhappy was the Wombe that lent me breath,</l>
+               <l>Would it had bin the <hi>Charnell-house</hi> of Death,</l>
+               <l>Had I bin stifled there, then had my flight</l>
+               <l>To Heau'n bin like a Doues, with wings more white.</l>
+            </lg>
+            <lg>
+               <head>4</head>
+               <l>O would to God the Day when I was borne,</l>
+               <l>Had from the Calender of time beene torne,</l>
+               <l>Where now it stands accursed, and does beare</l>
+               <l>The marke of a most fatall Character.</l>
+            </lg>
+            <lg>
+               <head>5</head>
+               <l>Many a Widdow reading there my name,</l>
+               <l>Will curse it, and the leafe that holds the same,</l>
+               <l>Children as yet vnborne, comming to spell,</l>
+               <l>Will take it for a Furies name in Hell.</l>
+            </lg>
+            <lg>
+               <head>6</head>
+               <l>And casting by the Booke no more will reade,</l>
+               <l>But onely learne to heape vppon my head</l>
+               <l>VVishes of mischeefe though in Graue I lye,</l>
+               <l>For to confound mee euerlastingly.</l>
+            </lg>
+            <pb facs="tcp:178280:12"/>
+            <lg>
+               <head>7</head>
+               <l>But leauing this, let my sad Story tell,</l>
+               <l>Both from what height I fall, &amp; how I fell:</l>
+               <l>That though time present does not mone my state</l>
+               <l>Yet times to come may pitty my hard fate.</l>
+            </lg>
+            <lg>
+               <head>8</head>
+               <l>My birth was faire, my bringing vp was good,</l>
+               <l>My dayes were golden in my widdow-hood,</l>
+               <l>And might haue been so still, but climbers hye,</l>
+               <l>Beyond their reach must downe, and so doe I.</l>
+            </lg>
+            <lg>
+               <head>9</head>
+               <l>Plenty and I at board together sate,</l>
+               <l>I fed with <hi>Diues</hi> dranke in ritchest plate:</l>
+               <l>VVore ritch attires, tasted all worldly pleasure,</l>
+               <l>But ne're had care to hoord vp heau'nly treasure</l>
+            </lg>
+            <lg>
+               <head>10</head>
+               <l>VVith <hi>Eue</hi> I might haue liu'd in Paradice,</l>
+               <l>But that a Serpent did my Soule intice</l>
+               <l>To touch forbidden fruit, which relish'd well</l>
+               <l>In chewing, but being downe it smelt of Hell.</l>
+            </lg>
+            <lg>
+               <head>11</head>
+               <l>Twas not one onely Apple to deuoure,</l>
+               <l>For which I long'd; my hunger gap'd at more,</l>
+               <l>At a whole tree I look'd: it was a Tree,</l>
+               <l>Me thought the goodliest mortall eyes could see.</l>
+            </lg>
+            <pb facs="tcp:178280:13"/>
+            <lg>
+               <head>12</head>
+               <l>This Tree I climb'd, and as I pluckt it grew,</l>
+               <l>Still fresh and fresh, the boughs were euer new;</l>
+               <l>The branches euer greene, bushy and faire,</l>
+               <l>It seem'd the Darling both of funne and ayre.</l>
+            </lg>
+            <lg>
+               <head>13</head>
+               <l>But when my Soule lookt vp with open eyes,</l>
+               <l>I saw the top-bough brauing euen the skies:</l>
+               <l>VVhen the root stuck in Hell, where looking in</l>
+               <l>I knew it then to be the tree of sinne.</l>
+            </lg>
+            <lg>
+               <head>14</head>
+               <l>And though my Conscience told me I should fall,</l>
+               <l>If that I leand to: nothing could appall</l>
+               <l>My setled resolution, I would on,</l>
+               <l>Though still before me stood damnation.</l>
+            </lg>
+            <lg>
+               <head>15</head>
+               <l>From this I pluckt the guilded fruit of pride,</l>
+               <l>Like Queen-apples they shew'd, for euery side dust.</l>
+               <l>VVas ruddy and alluring, but (what trust</l>
+               <l>Is in vaine earth) being toucht they turne to well,</l>
+            </lg>
+            <lg>
+               <head>16</head>
+               <l>From this I suckt Enchantments which drunke</l>
+               <l>And luscious sweet, yet prou'd the milke of hell,</l>
+               <l>Hence did I gather poysonous drugges to kill</l>
+               <l>Such as withstood my friends, or crost my wil.</l>
+            </lg>
+            <pb facs="tcp:178280:13"/>
+            <lg>
+               <head>17</head>
+               <l>Lust often lay within my widdowed sheetes,</l>
+               <l>And taught me how to tast vnbidden sweetes,</l>
+               <l>And that toward hell I might go one step furder</l>
+               <l>The last and worst I went into was murder.</l>
+            </lg>
+            <lg>
+               <head>18</head>
+               <l>O crying sinne, which sinothered nere so deep,</l>
+               <l>In caues, which silent night her selfe does keep,</l>
+               <l>Bound vp in darknes, like the steeme of Hell</l>
+               <l>which none can peirce, yet the black deed to tell.</l>
+            </lg>
+            <lg>
+               <head>19</head>
+               <l>Euen graues of dead men (rotten long agoe</l>
+               <l>VVill open wide: Vengeance walks often slow</l>
+               <l>To our weak sight, but when to Strike it stands,</l>
+               <l>On Heau'ns high Tower, it hath a 1000. hands.</l>
+            </lg>
+            <lg>
+               <head>20</head>
+               <l>Th' Almighties Arrowes fly both sure &amp; strong</l>
+               <l>And where they hit great Oakes fall all along,</l>
+               <l>No hidden mark but stands within his eie,</l>
+               <l>And that he cleaues, when forth his wrath does flie.</l>
+            </lg>
+            <lg>
+               <head>21</head>
+               <l>Witnesse my selfe and others, who defying,</l>
+               <l>The busiest searching Sunbeam from discrying:</l>
+               <l>Where Villany lay lurking, wrapd in cloudes,</l>
+               <l>so safe we thought as dead men in their shrouds</l>
+            </lg>
+            <pb facs="tcp:178280:14"/>
+            <lg>
+               <head>22</head>
+               <l>When to Mans Sence twas as imposible,</l>
+               <l>Mountaines to moue, as find a tongue-durst tel</l>
+               <l>Our buried plots, See they are rent and torne,</l>
+               <l>By Gods least finger; and we left in Scorne.</l>
+            </lg>
+            <lg>
+               <head>23</head>
+               <l>Our maskes pluckd off our faces now appeare,</l>
+               <l>Such as they are indeed, not as they were,</l>
+               <l>Plaine on our browes are our close mischiefes writ now,</l>
+               <l>Who most did hide, now most discouer it.</l>
+            </lg>
+            <lg>
+               <head>24</head>
+               <l>The Wolues are caught in snares; the shepherd</l>
+               <l>Knows that a Lamb was slain, by whom &amp; how,</l>
+               <l>The blood of whom by cruell friend so spilt,</l>
+               <l>Flowes like a Sea, yet washes off no guilt.</l>
+            </lg>
+            <lg>
+               <head>25</head>
+               <l>If any aske mee, why I was so led,</l>
+               <l>And why so neere to hell I ventured,</l>
+               <l>I was bewitch'd, for what I did behold,</l>
+               <l>Was a most bitter <hi>Pill,</hi> but wrap'd in gold.</l>
+            </lg>
+            <lg>
+               <head>26</head>
+               <l>That liquorish baite intic'd me take it downe,</l>
+               <l>As wholesome Phisick, but (with shāe) tis known</l>
+               <l>No poison can so soone destroy the <hi>Soule,</hi>
+               </l>
+               <l>The out-side glorious, but the inside foule.</l>
+            </lg>
+            <pb facs="tcp:178280:14"/>
+            <lg>
+               <head>27</head>
+               <l>O Gold! thou glittering diuell that confound<g ref="char:EOLhyphen"/>dest</l>
+               <l>The Richest, Fairest, Strongest, wisest, Soundest,</l>
+               <l>Would God, as He to Indians is vnknowne,</l>
+               <l>That so their Drossy God were theirs Alone.</l>
+            </lg>
+            <lg>
+               <head>28</head>
+               <l>Soules would not tumble then so fast to Hell,</l>
+               <l>Nor of my Fall should I this Story tell,</l>
+               <l>Terror to Soule and Body, had not heauen,</l>
+               <l>To Sinnes more high and horrid, pardon giuen.</l>
+            </lg>
+            <lg>
+               <head>29</head>
+               <l>Pardon of thee (sweet <hi>Iesus</hi>) then I craue,</l>
+               <l>What thou hast Bought and Payd for deerely Saue</l>
+               <l>Men let me beg forgiuenes from you too,</l>
+               <l>Because I did more then my Sex should doe.</l>
+            </lg>
+            <lg>
+               <head>30</head>
+               <l>And you of Modest dames that beare the note,</l>
+               <l>And my black Name quite from your tables blot,</l>
+               <l>As I am lost, so let my fault I craue,</l>
+               <l>And write Obliuion on my wretched Graue.</l>
+            </lg>
+            <lg>
+               <head>31</head>
+               <l>You Fathers whom of Children I bereaue,</l>
+               <l>You Children whom of Parents I deceaue,</l>
+               <l>You Wiues whom Husband les my Guilt does make,</l>
+               <l>Forgiue me All: of All this Leaue I take.</l>
+            </lg>
+            <pb facs="tcp:178280:15"/>
+            <lg>
+               <head>32</head>
+               <l>Heauen frownes to looke vpon me and my Sin,</l>
+               <l>Earth trembles that by her I fed haue bin:</l>
+               <l>My very breath poysons the Aire about me,</l>
+               <l>Hell onely is within me, and without me.</l>
+            </lg>
+            <lg>
+               <head>33</head>
+               <l>Yet in despite of Hell, from Heauen comes down,</l>
+               <l>Mercy I see, holding a glorious Crown,</l>
+               <l>Of immortality ouer my faint head,</l>
+               <l>Iesus in that and thee I'me Comforted.</l>
+            </lg>
+            <lg>
+               <head>34</head>
+               <l>Strengthen my weake heart, Death is fearefull grim,</l>
+               <l>One finger of thy Hand can vanquish him,</l>
+               <l>Giue to my fleeting Soule a prosperous gaile;</l>
+               <l>That I to Blest Ierusalem may Saile.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="prayer">
+            <pb facs="tcp:178280:15"/>
+            <head>A Prayer made by Mistris <hi>Turner,</hi> the night <hi>before her Suffering Death.</hi>
+            </head>
+            <p>VVIth <hi>Mary Magdalene,</hi> I kneele (O <hi>Iesus</hi>) at thy feete, which I wash with the teares of a peniten<g ref="char:EOLhyphen"/>tiall bleeding heart, dry them vp againe with the Sighes of my afflicted Soule, O my sweet Sauiour what pretious bloud didst thou pay in ransome to fetch my Soule out of euerlasting Death and Hell? And how (for a golden bribe) haue I sold that loue of thine, and my owne Saluation? I am vndone for euer, for fince I could speake the Name of God, or his blessed Sonne, I did ne<g ref="char:EOLhyphen"/>ner speake or doe any thing that was worthy of Heauen. What haue I not beene, that in the world is Euell, and what is now in me, that I dare call Good? My youth was Licentious, my Age wicked, my Latter daies offensiue and odious to God and Man. Yet notwithstanding (Hea<g ref="char:EOLhyphen"/>uenly Father) Since my Repentant Soule comes crying to Thee for Mercy, as before my Sin<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es cryed to Hea<g ref="char:EOLhyphen"/>uen for Vengeance: bow downe I beseech thee thine eare: dry vp my Sorrowes with thy beam<gap reason="illegible" resp="#pdcc" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of <hi>Grace.</hi> I haue not knowne thee, nor neuer reguarded thy Sacred word, yet (O Lord) shut me not out of Heauen, because it is a broken, wounded, and oppressed beast that k<gap reason="illegible" resp="#pdcc" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>eth at thy gates of Pitty. Let not my name be blotted out of thy booke of Life, but set the Seale on my forehead, that I may be knowne to be one of Thine. I desire not to liue in this World (of which I am weary, as that is of me) but onely in thy Kingdome: to the intent I may change my bloody garments, for a roabe of Immortality: Com<g ref="char:EOLhyphen"/>fort me in my Combat of Death, take dispaire from mine eies, set an Angell to guard me, Help me, Strengthen mee, Hasten me to my home, and let that dwelling be with thee for <gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uer and euer, I come deere Redeemer, I come, into thy blessed Hands I commend my Spirit.</p>
+         </div>
+         <div type="prayer">
+            <pb facs="tcp:178280:16"/>
+            <head>Master <hi>Westons</hi> Teares, for <hi>the Murder of Sir</hi> Thomas Ouerbury <hi>who was poysoned in the Towre of London.</hi>
+            </head>
+            <p>GOD of my Soule and Body, haue mercy vpon mee: the one I haue cast way by my folly, &amp; the other is likely to perish in thy Fury, vnlesse in thy great mercy thou Saue it. My Sinnes are deepe Seas to drowne mee; I am swallowed vp in the bottomles Gulph of my owne transgressions. With <hi>Gaine</hi> I haue beene a Murderer, and with <hi>Iudas</hi> à Betrayer of t he Innocent. My body is a Slaue to Sathan, and my wretched Soule is deuowred vp by Hell. Black haue bin my thoughts, and blacker, are my deeds. I haue beene the Diuells instrument, and am now become the Scome of Men, a Serpent vpon earth, and an Out-cast from Heauen. What therefore can be<g ref="char:EOLhyphen"/>come of me (miserable Catiffe;) if I looke vp to my Re<g ref="char:EOLhyphen"/>deemer, to him I am an Arch Traitor, if upon Earth, it is deowned with Blood of my shedding, if into Hell, there I se<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap> my Conscience, burning in the Brimstone lake. God of my Soule and Body haue mercy therefore vpon mee, Saue me, O saue me, or else I perish for euer, I die for euer in the world to come, vnlesse (sweet Lord) thou catch<g ref="char:EOLhyphen"/>est my repentant Soule in thine Armes; O saue mee, saue me, saue me.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <p>
+               <hi>REaders you that are desirous to see the Reward of the Adulterer and the Adulteresse, paid by Gods ownchand: there is a little Table, called the</hi> Spectacles, <hi>where you may Read them more at Large.</hi>
+            </p>
+            <pb facs="tcp:178280:16"/>
+         </div>
+      </back>
+   </text>
+</TEI>
